@@ -1,14 +1,11 @@
 {
-    "Daenerys Targaryen": [
+    "desc1": [
         1
     ],
-    "Battle of Bastards": [
+    "desc2": [
         2
     ],
-    "Tyrion": [
+    "desc3": [
         3
-    ],
-    "Ellaria": [
-        4
     ]
 }

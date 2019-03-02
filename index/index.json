@@ -1,29 +1,19 @@
 {
     "data": [
         {
-            "name": "got01.jpg",
-            "description": "Daenerys Targaryen",
-            "location": "data\\got_memes\\images\\got01.jpg"
+            "name": "meme-got01.png",
+            "description": "desc1",
+            "location": "data\\got_memes\\images\\meme-got01.png"
         },
         {
-            "name": "got02.jpg",
-            "description": "Battle of Bastards",
-            "location": "data\\got_memes\\images\\got02.jpg"
+            "name": "meme-got02.png",
+            "description": "desc2",
+            "location": "data\\got_memes\\images\\meme-got02.png"
         },
         {
-            "name": "got03.jpg",
-            "description": "Tyrion",
-            "location": "data\\got_memes\\images\\got03.jpg"
-        },
-        {
-            "name": "got04.jpg",
-            "description": "Ellaria",
-            "location": "data\\got_memes\\images\\got04.jpg"
-        },
-        {
-            "name": "got05.jpg",
-            "description": "got_memes",
-            "location": "data\\got_memes\\images\\got05.jpg"
+            "name": "meme-got03.png",
+            "description": "desc3",
+            "location": "data\\got_memes\\images\\meme-got03.png"
         }
     ]
 }
