@@ -1,8 +1,8 @@
 {
-     "description": "description of image/ meme",
-     "category_description": "description for categories",
+     "description": "meme data/got_memes/images/got01 memecomment1 ",
+     "category_description": "data/got_memes/images/got01",
      "format": "f1.2",
      "rating": "5",
-     "comment": "some review"
+     "comment": "memecomment1"
 }
 

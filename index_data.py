@@ -33,10 +33,9 @@ def meme_index():
                     with open(subdir + os.sep + file.split('.')[0] + '.json'
                               ) as f:
                         desc = json.load(f)
-                    strr = desc[file.split('.')[0]]['description']
+                    # strr = desc[file.split('.')[0]]['description']
 
-                    description.append(desc[file.split('.'
-                                       )[0]]['description'])
+                    description.append(desc['description'])
                     data.append(file)
                     filepath = subdir + os.sep + file
                     path.append(filepath)
